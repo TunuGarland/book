@@ -1,8 +1,10 @@
-**Some technologies drag you in
+# Drag you in and Make you stay
+
+\*\* Some technologies drag you in
 
 I remember one thing that my music teacher told me early in life: great music has multiple layers. On the one hand, it has the quality of immediate attraction: Listen to it once, and you like it - it drags you in. This is the first layer. But then, once you are in, it makes you stay with it. You can listen to it over and over and find new things - probably other things than those that dragged you in at first. Great music drags you in. Then it makes you stay. There is immediate attraction as well as depth - multiple layers to discover over time.
 
-He was talking about music, but I believe that this is true for all art. A good book should be so enticing that you want to finish it and then read it again. It shouldn’t feel burdensome to get through it the first time. The next time you read it, there are hopefully new things to discover that make you enjoy it even more, which makes you re-read it. 
+He was talking about music, but I believe that this is true for all art. A good book should be so enticing that you want to finish it and then read it again. It shouldn’t feel burdensome to get through it the first time. The next time you read it, there are hopefully new things to discover that make you enjoy it even more, which makes you re-read it.
 
 After the social-media successes at the beginning of the 21st century such as Facebook, Twitter, Instagram and what have you, many founders were building competing social networks. Social network are interesting because they have no value when no people are on it. It lacks immediate attraction, but it has depth, in the sense that if everyone were magically using it, it would be very useful since everyone is there. But since everyone is already on Facebook, it has already achieved this depth, so no one is going to leave. So how can a social network drag you in?
 
