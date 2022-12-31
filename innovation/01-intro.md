@@ -8,7 +8,7 @@ Luckily this is not how things are today. Change in how we do things and why we 
 
 But one should not confuse this trend - that innovation tends to happen faster in our society over time - with the misconception that new innovations will necessarily reach the market faster than those before them. Sometimes, society will experience progress very fast after which it might slow down for a while, only to speed up again. But overall, progress is quickening due to it being a higher societal priority combined with the pace of information spread and collaboration. Nevertheless, innovation is lumpy. The reason for this is very simple:
 
-**The time it takes for an innovation to change society depends on the particulars of that innovation.**
+>**The time it takes for an innovation to change society depends on the particulars of that innovation.**
 
 There are many factors at play that determine the time this takes, such as how easy it is to roll out a particular product, regulatory barriers in that market, or how immediate the experienced value of the innovation is. For instance, pure software companies can distribute their technology quickly because there are no physical problems that need to be solved for them to do that. They just push the code. Often there aren’t any regulatory barriers either.
 

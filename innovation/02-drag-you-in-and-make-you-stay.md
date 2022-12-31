@@ -1,6 +1,4 @@
-# Drag you in and Make you stay
-
-\*\* Some technologies drag you in
+# Drag You in and Make You Stay
 
 I remember one thing that my music teacher told me early in life: great music has multiple layers. On the one hand, it has the quality of immediate attraction: Listen to it once, and you like it - it drags you in. This is the first layer. But then, once you are in, it makes you stay with it. You can listen to it over and over and find new things - probably other things than those that dragged you in at first. Great music drags you in. Then it makes you stay. There is immediate attraction as well as depth - multiple layers to discover over time.
 
@@ -12,6 +10,10 @@ The adage of the times became that to compete with a social network, there has t
 
 For social networks, this mostly turned out not to work. I believe that this is because a social network tends to not be as useful when confined to one particular part of your life, such as a hobby. It is convenient for people to have one network where they can communicate with all or most people that they want to communicate with, so there is gravitation back to that, making you stay. People are often willing to give up tailor-made features for this and haphazardly fill all of their feature needs with Facebook instead.
 
-But the startups did get one thing right. They had the drag-you-in. But they didn’t have the make-you-stay. Facebook had that.
+But the startups did get one thing right. They had the drag-you-in. But they didn’t have the make-you-stay. Facebook had that. It can be useful to think about these two parts separately because they are often different. People come for one thing, but stay for something different. 
 
-While my music teacher’s simple idea had immediate attraction to me because it seemed so applicable, it also had depth because it extended beyond music and can be seen everywhere. It’s funny how some things just stick with you.
+When cars first came, rich people bought them as toys. There weren’t any roads for cars nor were there any gas stations, so utility as a means of transportation was limited. But the people who first bought cars didn’t care about that. They bought them anyway because they were fast and fun. Over time, a network was built, which made cars more useful. Gradually, it made sense for more people to buy a car since it had high utility, and the price point dropped because of economies of scale. The car went from fun to useful.
+
+The car had a killer app: being a fun toy. Without that, the pace of innovation would probably have been much slower than it was. Since it was also very useful in the long run, when the network was put in place, the car as a technology was sticky. Without that, it might have turned out to just be a fad. A fun toy that eventually went out of fashion.
+
+There are many technologies that have tremendous potential, but we are not going to get there without the killer app. We don’t magically jump from one point to another. Although there is a global maximum somewhere, we need to get there and that process can be just as hard as creating a technology with huge potential.
