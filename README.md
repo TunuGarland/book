@@ -1,2 +1,1 @@
-# Innovation
-
+This is a rolling-release book based on the newsletter [tunu.substack.com](https://tunu.substack.com) The book in its current state can be found at [tunu.gitbook.io](https://tunu.gitbook.io). The book is not finished yet. In fact, I have only just begun.
