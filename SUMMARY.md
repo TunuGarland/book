@@ -6,6 +6,6 @@
   * [Network Effects](innovation/03-network-effects.md)
   * [The Innovation Stack](innovation/04-the-innovation-stack.md)
 
-* [Learning](learning/README.md)
+* [Learning](learning/00-README.md)
   * [Good Books](learning/01-good-books.md)
   * [The Unrealistic Thing About Realistic-Feeling Video Games](learning/02-the-unrealistic-thing-about-realistic-feeling-video-games)
