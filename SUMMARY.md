@@ -15,3 +15,4 @@
 
 * [Other](other/00-README.md)
   * [The Road to AGI](other/01-the-road-to-agi.md)
+  * [Conservatism](other/02-conservatism)
