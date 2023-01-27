@@ -13,6 +13,7 @@
 * [Learning](learning/00-README.md)
   * [Good Books](learning/01-good-books.md)
   * [The Unrealistic Thing About Realistic-Feeling Video Games](learning/02-the-unrealistic-thing-about-realistic-feeling-video-games.md)
+  * [Science](03-science.md)
 
 * [Other](other/00-README.md)
   * [The Road to AGI](other/01-the-road-to-agi.md)
