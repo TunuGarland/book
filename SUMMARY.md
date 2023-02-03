@@ -9,6 +9,7 @@
   * [The Fundamentals of Web3](innovation/05-02-the-fundamentals-of-web3.md)
   * [Blockchain and Social Media](innovation/05-03-blockchain-and-social-media.md)
   * [The Centralized Nature of the Internet](innovation/05-04-the-centralized-nature-of-the-internet.md)
+  * [Intersubjectivity](innovation/05-05-intersubjectivity.md)
 
 * [Learning](learning/00-README.md)
   * [Good Books](learning/01-good-books.md)
