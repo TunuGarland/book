@@ -10,6 +10,7 @@
   * [Blockchain and Social Media](innovation/05-03-blockchain-and-social-media.md)
   * [The Centralized Nature of the Internet](innovation/05-04-the-centralized-nature-of-the-internet.md)
   * [Intersubjectivity](innovation/05-05-intersubjectivity.md)
+  * [The Value of Wasted Energy](innovation/05-06-the-value-of-wasted-energy.md)
 
 * [Learning](learning/00-README.md)
   * [Good Books](learning/01-good-books.md)
