@@ -8,6 +8,7 @@
 
 * [Blockchain](blockchain/00-README.md)
   * [Intersubjectivity](blockchain/01-intersubjectivity.md)
+  * [Where Flies Can Fly](blockchain/02-where-flies-can-fly.md)
   * [The Usefulness of Blockchain](blockchain/03-the-usefulness-of-blockchain.md)
   * [The Fundamentals of Web3](blockchain/04-the-fundamentals-of-web3.md)
   * [Blockchain and Social Media](blockchain/05-blockchain-and-social-media.md)
