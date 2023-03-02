@@ -19,6 +19,7 @@
   * [Good Books](learning/01-good-books.md)
   * [The Unrealistic Thing About Realistic-Feeling Video Games](learning/02-the-unrealistic-thing-about-realistic-feeling-video-games.md)
   * [Science](03-science.md)
+  * [Bend, Don't Break](learning/05-bend-dont-break.md)
 
 * [Other](other/00-README.md)
   * [The Road to AGI](other/01-the-road-to-agi.md)
