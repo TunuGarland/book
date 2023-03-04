@@ -5,6 +5,7 @@
   * [Drag You In and Make You Stay](innovation/02-drag-you-in-and-make-you-stay.md)
   * [Network Effects](innovation/03-network-effects.md)
   * [The Innovation Stack](innovation/04-the-innovation-stack.md)
+  * [Belief](innovation/05-02-belief.md)
 
 * [Blockchain](blockchain/00-README.md)
   * [Intersubjectivity](blockchain/01-intersubjectivity.md)
