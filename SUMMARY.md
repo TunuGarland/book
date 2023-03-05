@@ -20,6 +20,7 @@
   * [Good Books](learning/01-good-books.md)
   * [The Unrealistic Thing About Realistic-Feeling Video Games](learning/02-the-unrealistic-thing-about-realistic-feeling-video-games.md)
   * [Science](learning/03-science.md)
+  * [Playing With Fire](learning/04-playing-with-fire.md)
   * [Bend, Don't Break](learning/05-bend-dont-break.md)
 
 * [Other](other/00-README.md)
