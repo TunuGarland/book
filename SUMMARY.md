@@ -6,6 +6,7 @@
   * [Network Effects](innovation/03-network-effects.md)
   * [The Innovation Stack](innovation/04-the-innovation-stack.md)
   * [Belief](innovation/05-02-belief.md)
+  * [The Idea and the Entrepreneur](innovation/05-01-the-idea-and-the-entrepreneur.md)
 
 * [Blockchain](blockchain/00-README.md)
   * [Intersubjectivity](blockchain/01-intersubjectivity.md)
