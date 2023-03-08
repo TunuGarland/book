@@ -23,6 +23,7 @@
   * [Science](learning/03-science.md)
   * [Playing With Fire](learning/04-playing-with-fire.md)
   * [Bend, Don't Break](learning/05-bend-dont-break.md)
+  * [A Morning Habit](learning/06-a-morning-habit.md)
 
 * [Other](other/00-README.md)
   * [The Road to AGI](other/01-the-road-to-agi.md)
