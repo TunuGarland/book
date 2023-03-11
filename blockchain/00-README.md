@@ -1,1 +1,25 @@
-This chapter is about blockchain.
+It is in the nature of humans to join the behavior of their peers. When you see others looking up at the sky in amazement while walking down the street, what do you do?You look at the sky. When a friend sneezes, perhaps you just so happen to notice the tickling sneeze at the back of your nose as well. And when people jump up from their seats in a movie theater and run for the exit in panic, will you sit and wait to decide if it's reasonable to follow?
+
+No, we humans have always taken to our peers for guidance on what to do, particularly in the face of uncertainty. Nothing gives a greater feeling of safety than being right in the middle of the pack. Even when the pack itself takes a peculiar turn, a sharp twist from one route to another, who are we to challenge the wisdom of crowds?
+
+And as I write this in March 2023, the pack has taken a sharp twist indeed. After years of happily taking a leap of faith in the future, people are now intently focused on the present - making what exists work. The pack has little time for the nonsense of high-flying ideas, thank you very much.
+
+This might come as a surprise because for some years investors have sprinkled their capital on growth. The good part of this was that good ideas were getting funded. The bad part was that bad ideas, too, were getting funded. As the market ground to a halt, investors cut down on both.
+
+But for those of us who have been in the game of investing for a while, this is not a surprise at all; we have seen the ebb and flow of tides. And we know that although there may be some wisdom in the crowd, sticking your neck out at the right moment can be highly lucrative when the crowd decides to return.
+
+The focus has shifted to fundamentals and unfortunately, the wrong fundamentals. While investors should have started thinking more about good and bad ideas, they instead turned to think about profitability. But innovative ideas are not profitable nor should anyone expect them to be, at least not in the present. The only fundamental of innovation is the quality and potential of the idea and those that are making it come to life. Do they have what it takes to impact the lives of people positively? Can the idea be profitable in the future? Does the team have what it takes to make the idea come to life? Does the world in which the solution lives make sense? Are the humans happier there? The fundamentals of innovation are much more related to imagination than profitability.
+
+Focusing on what we already know is very limiting. It's not hard to imagine a world where intercontinental travel is a little bit faster, food a little bit healthier, and games slightly more immersive. That too is innovation, but only one very limited kind. It lives in the current framework, pushing the parameters slightly. We can do better than that by changing the framework itself. This is another kind of innovation - a new paradigm. That too has to be imagined.
+
+And when investors lose touch, investing in ideas that have no merit - lacking fundamentals - as has happened in the last few years, it is not reality that investors have lost touch with, but rather their imagination.
+
+As we turn our attention to Blockchain technology, the right questions to ask are the same as with all technology. How does a world look like in which cryptocurrencies play a natural part? Why are people happier there?
+
+"What is this technology good for?" is a question that can be asked in two distinct ways. It can be asked with a sense of skepticism, and with a sense of wonder. With blockchain, regardless of how the question is asked the answer is unclear. That makes it a worthwhile technology to speculate about.
+
+Speculation, for some unfathomable reason, gets a bad rap. But critiquing an idea as mere speculation is strange. It should be a compliment. How boring it must to be write only about things already known to be true - how useless to write about things known to be false. The only thing worth writing about is that which we are unsure about. People could use more imagination, not less.
+
+As it happens, my writing often turns out to lie somewhere at the intersection between science fiction and non-fiction. I call it dry-fi. Like science fiction, but without the characters and the plot. The world is its only character and the only story is its transformation. Science fiction (at least the good kind) describes a world that might be, a world like ours but different. It stirs the mind. Curiously enough, out of all the possible worlds, the one that goes on to become reality often resembles the world described in science fiction a few decades prior, because literature made that world easier to build by imagining it.
+
+This chapter focuses very little on the technical aspects of blockchain. It is mostly speculation about the world in how a world in which technology lives looks. So the main character is not the blockchain; it is the world. Contrary to most non-fiction, the book is not about proving, showing, or convincing the reader of this or that. It is about stirring the mind. Because what is needed at this juncture is precisely what the crowd is turning away from. Not profits, not cold-hard facts, but imagination.
