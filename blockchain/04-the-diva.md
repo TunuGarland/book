@@ -1,0 +1,11 @@
+Information is useful when it's accurately delivered to a desired place. All information must be at rest somewhere until called for. And when it's called for, that information needs to be accurately and swiftly delivered where needed.
+
+So begins the tango between the internet and the database. The two, of course, complement each other perfectly. On the one hand, humans have produced seas of data, waiting to fulfill its purpose by appearing when called. But without the internet we take away that opportunity to call it forth when needed.
+
+However, the balance is skewed. The internet is the same for everyone. No one gets priority, no questions asked, just information delivered from one point to another. The databases, on the other hand, are very different. They decide who gets access. The tragedy of the commons assures that there won't be many different sources of the same information, but people will only use a couple, from a database with a reputation of being accurate.
+
+In this particular tango, the database is the diva - the diva that picks and chooses when and where to dance, that everyone comes to see. Even though both the internet and the database are pivotal to the tango, the diva holds nearly all of the power. And who will be paid the most? The diva. Today, the divas go under the names of Google, Facebook, Reddit and Twitter.
+
+A very different type of performance is the Blue Man Group. The show is called that because it consists of men with their faces painted with blue color, making them indistinguishable from one another. On stage, there are usually three of them, but the individuals might rotate. Here is a system with no divas. There could be different people in different shows and people wouldn't even know. Yet the crowd enjoys it as much as ever. The show is more reliable because it goes beyond the capabilities of a single man. It can be performed at different places at the same time. Ticket prices are probably even cheaper because there is no diva to pay.
+
+The way to get rid of a diva is by redundancy. Instead of having databases with different information, some more valuable than others, we build up thousands of databases, all with the exact same information. Who is the diva now?

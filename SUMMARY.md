@@ -12,6 +12,7 @@
   * [Intersubjectivity](blockchain/01-intersubjectivity.md)
   * [Where Flies Can Fly](blockchain/02-where-flies-can-fly.md)
   * [The Usefulness of Blockchain](blockchain/03-the-usefulness-of-blockchain.md)
+  * [The Diva](blockchain/04-the-diva.md)
   * [The Fundamentals of Web3](blockchain/05-the-fundamentals-of-web3.md)
   * [Blockchain and Social Media](blockchain/06-blockchain-and-social-media.md)
   * [The Centralized Nature of the Internet](blockchain/07-the-centralized-nature-of-the-internet.md)
